@@ -18,5 +18,7 @@ test("GET Request - Verify User detils ", async ({ request }) => {
  expect(responseBody.data.first_name).toBe("Janet");
  expect(responseBody.data.last_name).toBe("Weaver");
  expect(responseBody.data.email).toBeTruthy();
+ 
  });
+ 
 });

@@ -1,2 +1,2 @@
 # playwright_javascript-happiness
-Simle repo for automate api and ui tests with playwright
+Simple repo for automate api and ui tests with playwright
